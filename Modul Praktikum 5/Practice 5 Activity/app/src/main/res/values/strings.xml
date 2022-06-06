@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="input_prodi">Input Prodi</string>
+    <string name="bawa_data_prodi_ke_activity_lain">BAWA DATA PRODI KE ACTIVITY LAIN</string>
+    <string name="input_nomor_telepon">Input Nomor Telepon</string>
+    <string name="telepon">TELEPON</string>
+    <string name="fragment">FRAGMENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_pertama">Fragment Pertama</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="ini_halaman_fragment_kedua">Ini Halaman Fragment Kedua</string>
+</resources>

@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">praktikum6</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampil List</string>
+    <string name="tampil_grid">Tampil Grid</string>
+    <string name="tampil_card_view">Tampil Card View</string>
+    <string-array name="data_name">
+        <item>Raja Ampat</item>
+        <item>Lombok</item>
+        <item>Kepulauan Seribu</item>
+        <item>Bromo</item>
+        <item>Belitung</item>
+        <item>Banyuwangi</item>
+        <item>Wakatobi</item>
+        <item>Toraja</item>
+        <item>Pulau Komodo</item>
+        <item>Malang</item>
+        <item>Yogyakarta</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>"Berbicara mengenai Raja Ampat tidak dapat lepas dari salah satu ikon dari tempat ini, yakni Wayag. Wayag merupakan jejeran batu karang yang berbalut warna kehijauan yang menyebar di birunya lautan. Panorama yang luar biasa inilah yang menjadikan wisata Raja Ampat mendunia. Berfoto dengan latar belakang gugusan batu karang tentu menjadi hal yang wajib dilakukan.
+
+Selain Wayag, panorama gugusan batu karang yang hijau juga dapat dinikmati di Pianemo. Tempat ini berada di ketinggian sehingga wisatawan dapat menikmati perpaduan luar biasa dari gugusan batu karang, birunya laut, dan langit biru cerah. Pianemo ini sering disebut sebagai Wayag versi mini.
+
+Selesai dengan gugusan batu karang, saatnya menjelajahi indahnya wisata pasir putih Raja Ampat. Ada satu tempat yang memiliki pasir putih yang menawan, yakni Pasir Timbul. Pulau Pasir ini berdekatan dengan Pulau Mansuar.
+
+Seperti halnya pulau pasir lainnya, Pasir Timbul akan menunjukkan pasir putihnya ketika air laut tengah surut. Hamparan pasir putih berkilauan akan menjadi momen yang indah dan pas untuk berswafoto.
+
+Beralih dari laut, wisatawan dapat mengunjungi Air Terjun Batanta dengan pemandangannya yang aduhai. Nuansa segar dari air terjun juga akan menjadi penyejuk setelah seharian menjelajah air asin.
+
+Selain Air Terjun Batanta, wisatawan juga dapat melihat langsung burung yang menjadi ikon Papua, Cendrawasih. Burung asli dari Papua ini dapat ditemui di Desa Sawinggrai. Memang perlu usaha yang cukup keras agar dapat melihat burung ini mengingat keberadaannya yang langka."</item>
+
+        <item>"Pulau Lombok adalah sebuah pulau di kepulauan Sunda Kecil atau Nusa Tenggara yang terpisahkan oleh Selat Lombok dari Bali di sebelah barat dan Selat Alas di sebelah timur dari Sumbawa. Lombok dalam banyak hal mirip dengan Bali, dan pada dasawarsa tahun 1990-an mulai dikenal wisatawan mancanegara. Namun dengan munculnya krisis moneter yang melanda Indonesia pada akhir tahun 1997 dan krisis-krisis lain yang menyertainya, potensi pariwisata agak terlantarkan.
+
+            Lalu pada awal tahun 2000 terjadi kerusuhan antar-etnis dan antar agama di seluruh Lombok sehingga terjadi pengungsian besar-besaran kaum minoritas. Mereka terutama mengungsi ke pulau Bali. Namun selang beberapa lama kemudian situasi sudah menjadi kondusif dan mereka sudah kembali. Pada tahun 2007 sektor pariwisata adalah satu-satunya sektor di Lombok yang berkembang.
+
+            Dengan pantai-pantai nan memesona, Gunung Rinjani yang indah, serta pemandangan bawah laut yang spektakuler, Lombok di Nusa Tenggara Barat akan memanjakan mata Sobat Pesona baik saat berada di darat maupun di air. Tidak heran, jika pulau kecil ini menjelma menjadi destinasi paling populer di Nusa Tenggara Barat."</item>
+
+        <item>"Dengan menggunakan sepeda, Sobat Pesona dapat melalui Jembatan Cinta sembari berkeliling pulau dengan penduduknya yang ramah. Di Pulau Pari yang biasanya sedikit lebih ramai dari pulau-pulau lainnya, terdapat sebuah pantai tersembunyi yang dinamakan Pantai Perawan. Pantai ini memiliki pemandangan yang sangat indah dan juga menyimpan berbagai jenis terumbu karang. Pulau terjauh dari Jakarta adalah Pulau Putri. Sobat Pesona dapat berjalan menyusuri terowongan bawah laut sembari mengamati kehidupan di bawah laut yang mengagumkan di sini.
+
+            Terletak di Utara Jakarta, ada Kepulauan Seribu yang tentunya sudah tidak asing di telinga traveler ibukota. Karena jaraknya yang dekat dari pusat Jakarta, menjadikan Kepulauan Seribu sebagai destinasi favorit traveler pecinta pantai. Kepulauan Seribu adalah salah satu wilayah administrasi yang berada di sebelah utara Kota Jakarta.
+
+            Meski jumlah pulau yang ada sebenarnya tidak sampai seribu, wilayah ini memiliki sederet pulau-pulau indah dengan daya tariknya sendiri. Pulau terdekat berjarak sekitar 45 Km dari Kota Jakarta. Karena ditempuh melalui jalur laut, maka anda tidak perlu terlibat kemacetan lalu lintas untuk mencapai objek wisata ini. Wilayah Kepulauan Seribu secara umum memiliki tiga peruntukan.
+
+            Di Kepulauan Seribu juga terdapat pulau-pulau bersejarah seperti Pulau Onrust, Cipir, Kelor dan pulau Bidadari. Saat Sobat Pesona berjalan-jalan mengelilingi Pulau Onrust, Sobat Pesona akan menemukan sisa-sisa peninggalan arkeologi. Jangan lewatkan pula untuk mengunjungi Pulau Macan yang eksotik dan juga memiliki penginapan yang ramah lingkungan. Di Pulau Tidung Besar dan Pulau Tidung Kecil dihubungkan oleh sebuah jembatan ikonik yang sering dijuluki dengan Jembatan Cinta."</item>
+
+        <item>"Gunung Bromo (dari bahasa Sanskerta: Brahma, salah seorang Dewa Utama dalam agama Hindu) atau dalam bahasa Tengger dieja "Brama", adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang.
+
+            Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru.
+
+            Bentuk tubuh Gunung Bromo bertautan antara lembah dan ngarai dengan kaldera atau lautan pasir seluas sekitar 10 kilometer persegi. Ia mempunyai sebuah kawah dengan garis tengah ± 800 meter (utara-selatan) dan ± 600 meter (timur-barat). Sedangkan daerah bahayanya berupa lingkaran dengan jari-jari 4 km dari pusat kawah Bromo.
+
+            Melihat dahsyatnya sunrise dengan latar Gunung Bromo dan Gunung Batok dari Pananjakan, sampi foto seru di Bukit Teletubbies dan padang gurun Bromo."</item>
+
+        <item>"Pariwisata di Belitung mulai tumbuh pada awal 2000an,sekarang pariwisata Belitung mulai mengalami peningkatan yang pesat sejak Boomingnya Film Laskar Pelangi pada tahun 2008,Destinasi wisata di Belitung seperti Gantung,Pantai Tanjung Tinggi,Tanjung Kelayang,Dan Pulau Lengkuas mulai dikenali oleh wisatawan,Dan dengan ditetapkannya Pantai Tanjung Kelayang sebagai Kawasan Ekonomi Khusus(KEK) Serta ditetapkannya Pulau Belitung Sebagai Geopark Nasional semakin mendukung Kegiatan Pariwisata di Pulau Belitung.
+
+Batu Mentas yang berada di kaki gunung tajam, memiliki potensi yang luar biasa sebagai sebuah destinasi wisata terpadu. Keindahan alam baik sungainya yang jernih maupun hutannya yang masih lebat, keunikan flora dan fauna, kehidupan masyarakat lokal dengan sentra kebun nenas dan ladanya, ditambah dengan keunikan seni budaya tradisionalnya serta keahlian masyarakatnya membuat kerajinan anyaman serta rotan, merupakan potensi yang jika dikelola dengan baik akan memberikan dampak positif yang luar biasa baik untuk lingkungan maupun peningkatan kesejahteraan masyarakat. Batu Mentas hanya berjarak 20 menit waktu tempuh dari kota Tanjungpandan.
+
+            Belitung banyak memiliki keindahan alam yang sudah bukan menjadi rahasia lagi. Salah satu faktornya adalah film Laskar Pelangi yang populer dan banyak menampilkan latar spot-spot wisata Belitung."</item>
+
+
+        <item>"Bali memang mempesona. Namun, tahukah kalian kalau daerah lain di sekitarnya juga tidak kalah menarik dan indah? Banyuwangi adalah salah satu contoh lokasi yang pantas dipertimbangkan sebagai tempat wisata kalian berikutnya.
+
+Jika melakukan perjalanan darat, Banyuwangi adalah pintu masuk menuju Bali. Kalian akan menyeberang melewati pelabuhan Ketapang di Banyuwangi untuk bisa sampai ke Gilimanuk di pulau Bali.
+
+Tidak ada salahnya bila kalian menghabiskan waktu di Banyuwangi selama beberapa hari untuk menikmati spot-spot wisata luar biasa yang bisa dikatakan keindahannya tidak kalah dengan Bali. Mulai dari pantai, gunung hingga savana-nya, dijamin akan membuat kalian menganga karena kagum.
+
+Bagi para Instagrammer, Banyuwangi adalah one-spot-on-earth-you-can-not-miss, lho! Tidak percaya? Sepuluh tempat wisata Banyuwangi ini akan menunjukkan mengapa destinasi wisata ini tidak kalah dari Bali!
+
+            Bicara destinasi wisata, Banyuwangi boleh berbusung dada. Sebab memiliki fenomena api biru di Kawah Ijen, yang mana cuma terdapat dua di dunia, satu lagi di Islandia."</item>
+
+        <item>"Keindahan alam di Indonesia Timur seolah tidak ada habisnya. Salah satu destinasi yang sedang naik daun adalah Wakatobi. Wakatobi telah lama menjadi primadona bagi para penyelam dari seluruh dunia karena keindahan alam bawah lautnya. Tidak kurang dari 942 spesies ikan dan 750 spesies karang tercatat menghuni wilayah perairan Wakatobi.
+
+Wakatobi merupakan salah satu kabupaten di Provinsi Sulawesi Tenggara yang beribukota di Wangi-Wangi. Sejak tahun 1996, Wakatobi telah ditetapkan sebagai taman nasional Indonesia dan cagar alam dunia untuk biosfer laut oleh UNESCO. Nama Wakatobi merupakan akronim dari empat pulau utamanya yaitu WAngi-Wangi, KAledupa, TOmia, dan BInongko. Selain keempat pulau tersebut, terdapat beberapa pulau kecil lain yang berada di wilayah Wakatobi, antara lain Pulau Hoga, Kapota, Anano dan Rundumana. Selain dikenal sebagai surga para penyelam, Wakatobi juga memiliki destinasi wisata lain yang akan membuatmu terkesima lho. Mau tahu apa saja?
+
+            Wakatobi terkenal alam bawah lautnya yang begitu kaya. Kebanyakan wisatawan yang datang ke sini menghabiskan waktu untuk berada di air. Taman lautnya salah satu yang terkenal di Indonesia lho!
+            "</item>
+
+
+        <item>"Tempat wisata Tana Toraja identik dengan ungkapan “tidak lazim” bagi kebanyakan masyarakat, mengingat banyak makam yang dijadikan destinasi wisata. Namun alam di Tana Toraja juga menawarkan eksotisme yang tak kalah indah. Bayangkan, kamu bisa melihat bukit menjulang yang dibelah oleh sungai, mengingatkan kita pada dunia dari film animasi, Avatar The Legend of Aang.
+
+Kabupaten yang berada di Sulawesi Utara ini juga memiliki nilai adat dan budaya yang sangat kental. Pesona adat dan alam di sekitarnya membuat wisatawan jatuh hati sejak pandangan pertama. Penasaran? Berikut tempat wisata Tana Toraja yang harus dikunjungi.
+
+            Bangunan khas Toraja yang bernama Kete Kesu menonjolkan keindahan dari budaya setempat. Belum lagi sejarah dan tradisi yang begitu cantik dan menggoda untuk digali. Serta tak lupa, kulinernya pun menggoyang lidah. Lengkap!
+            "</item>
+
+        <item>"Tempat wisata Tana Toraja identik dengan ungkapan “tidak lazim” bagi kebanyakan masyarakat, mengingat banyak makam yang dijadikan destinasi wisata. Namun alam di Tana Toraja juga menawarkan eksotisme yang tak kalah indah. Bayangkan, kamu bisa melihat bukit menjulang yang dibelah oleh sungai, mengingatkan kita pada dunia dari film animasi, Avatar The Legend of Aang.
+
+Kabupaten yang berada di Sulawesi Utara ini juga memiliki nilai adat dan budaya yang sangat kental. Pesona adat dan alam di sekitarnya membuat wisatawan jatuh hati sejak pandangan pertama. Penasaran? Berikut tempat wisata Tana Toraja yang harus dikunjungi.
+
+            Pulau Komodo memang jadi destinasi terbaik untuk dikunjungi di tahun 2016. Kesempatan melihat hewan purba yang sudah ada sejak ribuan tahun silam sayang untuk dilewatkan."</item>
+
+        <item>"Malang merupakan sebuah kota yang terdapat di provinsi Jawa Timur yang terkenal sebagai kota pelajar. Tak hanya sebagai kota pelajar dan juga kota pendidikan, Malang pun kerap dijuluki sebagai kota kuliner. Terdapat banyak sekali jajanan khas Malang yang bisa Anda beli disini. Rasanya pun sangat unik dan juga lezat, disertai tampilannya yang menggugah selera.
+
+Selain terletak di tempat yang strategis, Kota Malang juga berada di dataran tinggi, sehingga memiliki hawa sejuk yang membuat orang betah di sana. Tak heran jika para warga dan juga wisatawan tak bosan-bosannya memilih Kota Malang sebagai destinasi liburan mereka.
+
+Bersebelahan dengan Surabaya, Malang juga terkenal akan objek wisatanya yang banyak dan juga bagus. Bahkan sebagian masih belum terjamah manusia, yang membuat para penjelajah suka berdatangan untuk explore daerah-daerah tersebut. Namun, untuk Anda sebagai wisatawan tak perlu bersusah-susah untuk mengexplore seperti itu. Karena banyak sekali tempat-tempat wisata terindah yang sudah tertata cantik untuk Anda kunjungi saat Anda berada di Kota Malang
+
+            Bersebelahan dengan Surabaya, Malang juga terkenal akan objek wisatanya yang banyak dan juga bagus. Bahkan sebagian masih belum terjamah manusia, yang membuat para penjelajah suka berdatangan untuk explore daerah-daerah tersebut."</item>
+
+        <item>"Siapa yang tidak mengenal Jogja? Kota di Jawa Tengah ini selalu padat turis pada saat-saat liburan.Jogja atau Yogyakarta merupakan tempat tujuan wisata utama bagi banyak warga Indonesia setelah Bali. Seperti namanya; Daerah Istimewa Yogyakarta, kota ini menjadi sangat istimewa karena merupakan salah satu kota di Indonesia yang masih memiliki keluarga kerajaan.
+
+Keluarga kerajaan Yogyakarta di pimpin oleh seorang Sultan yang hingga kini sangat dihormati dan disegani oleh penduduk asli Yogyakarta. Keistimewaan lainnya dari kota ini adalah banyaknya peninggalan candi yang tersebar di berbagai wilayahnya. Candi di Yogyakarta bahkan masuk kedalam daftar situs warisan dunia.
+
+            Yogyakarta dikenal dengan wisata alam budaya, wisata belanja, dan wisata kuliner. Jogja menyuguhkan berbagai pesona yang bisa dinikmati semua kalangan."</item>
+
+
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://asset.kompas.com/crops/N5Z83656bW7uLqq8UJtlzxV5SEE=/0x0:1020x680/750x500/data/photo/2019/08/29/5d67a6c460dd7.jpg</item>
+        <item>https://blog.airyrooms.com/wp-content/uploads/2018/06/pantai-pink-lombok-ntb.jpg</item>
+        <item>https://asset.kompas.com/crops/yrdSSZCXuRzaVHodNnvITuZM8ng=/0x0:1000x667/750x500/data/photo/2020/06/14/5ee63b28ecc30.jpg </item>
+        <item>https://mytrip123.com/wp-content/uploads/2015/10/xgunung-bromo.jpg.pagespeed.ic.fBRofFAVBR.webp</item>
+        <item>https://cdn.idntimes.com/content-images/post/20180310/tanjung-kelayang-1024x768-dbc06041d4f9803158755795011800ce.jpg</item>
+        <item>https://siapliburan.com/wp-content/uploads/2017/08/wisata_banyuwangi.jpg</item>
+        <item>https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2018/05/111105053131/wisata-wakatobi-11-1024x683.jpeg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/03/maxresdefault-2-1280x720.jpg</item>
+        <item>https://asset.kompas.com/crops/eIP2s99xXyYl2dhwW9hDQ6QxisY=/0x0:780x520/750x500/data/photo/2019/09/26/5d8c64544d656.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2018/02/09/b8ef2c58-10e6-48cc-96e8-f6a6300b6a4b_169.jpeg</item>
+        <item>https://visitingjogja.com/wp-content/uploads/2020/04/695.jpg</item>
+    </string-array>
+    <string name="title_activity_detail">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="data_lat">
+        <item>-0.232654</item>
+        <item>-8.651034</item>
+        <item>-5.745541</item>
+        <item>-7.942528</item>
+        <item>-2.871022</item>
+        <item>-8.210087</item>
+        <item>-5.529823</item>
+        <item>-3.037496</item>
+        <item>-8.527732</item>
+        <item>-7.982884</item>
+        <item>-7.804147</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>130.516763</item>
+        <item>116.325046</item>
+        <item>106.615231</item>
+        <item>112.952992</item>
+        <item>107.953214</item>
+        <item>114.371261</item>
+        <item>123.747947</item>
+        <item>119.715830</item>
+        <item>119.483281</item>
+        <item>112.630908</item>
+        <item>110.364518</item>
+    </string-array>
+</resources>

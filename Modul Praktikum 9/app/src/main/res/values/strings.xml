@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">praktikum9</string>
+    <string name="name">Nama</string>
+    <string name="default_name">No Name</string>
+    <string name="email">Email</string>
+    <string name="default_email">No Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="default_phone">No Phone Number</string>
+    <string name="age">Umur</string>
+    <string name="default_age">No Age</string>
+    <string name="tv_theme">Theme Mode</string>
+    <string name="default_theme">System Default</string>
+    <string name="setting">SETTING</string>
+    <string name="main_title">Main Tittle</string>
+    <string name="phone_number">Nomor Telepon</string>
+    <string name="dark_theme">Mode Gelap</string>
+    <string name="light_theme">Mode Terang</string>
+    <string name="setting_page">Setting</string>
+    <string name="field_required">Wajib diisi !!!</string>
+    <string name="email_is_not_valid">Masukkan email dengan benar!!!</string>
+    <string name="field_digit_only">Hanya angka</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+</resources>

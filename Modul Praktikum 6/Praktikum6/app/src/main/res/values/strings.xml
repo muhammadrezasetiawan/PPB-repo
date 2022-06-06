@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">praktikum6</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampil List</string>
+    <string name="tampil_grid">Tampil Grid</string>
+    <string name="tampil_card_view">Tampil Card View</string>
+    <string-array name="data_name">
+        <item>Mahouka Koukou no Rettousei</item>
+        <item>Tonikaku Kawaii</item>
+        <item>Haikyuu!!</item>
+        <item>Majo no Tabitabi</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Steins;Gate</item>
+        <item>Gintama</item>
+        <item>Koe no Katachi</item>
+        <item>Kimi no Na wa</item>
+        <item>Kaguya-sama: Love is War</item>
+        <item>Jujutsu Kaisen</item>
+        <item>KonoSuba</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Bakemonogatari</item>
+        <item>Shigatsu wa Kimi no Uso</item>
+        <item>K-On!</item>
+    </string-array>
+    <string-array name="data_description">
+ <item>Teman sekelas Shiba Miyuki, Kitayama Shizuku sedang dalam perjalanan untuk belajar di luar negeri.
+     Bagi pesulap, ini biasanya tidak mungkin, karena membiarkan gen seseorang yang dapat menggunakan sihir
+     di luar perbatasan negara asalnya sama saja dengan melepaskan rahasia nasional. Tapi itu dibiarkan terjadi
+     dalam satu program pertukaran kasus. Dan begitulah cara Angelina Kudou Shields tiba di Jepang dari USNA untuk
+     belajar di SMA Pertama.
+</item>
+        <item>Setelah tumbuh dewasa diejek karena namanya yang aneh, Nasa Yuzaki berusaha untuk dikenang untuk sesuatu yang
+            lebih. Untungnya, tampaknya dia berada di jalur yang benar, menempati peringkat pertama dalam ujian tiruan nasional
+            dan bersiap untuk masuk sekolah menengah pilihannya.</item>
+        <item>Terinspirasi setelah menyaksikan pemain bola voli berjuluk "Raksasa Kecil" beraksi, Shouyou Hinata bertubuh kecil
+            menghidupkan kembali klub bola voli di sekolah menengahnya.</item>
+        <item>Dahulu kala, ada seorang penyihir bernama Elaina, yang memulai perjalanan keliling dunia. Sepanjang jalan, dia akan
+            bertemu dengan semua jenis orang, dari negara yang penuh dengan penyihir hingga raksasa yang mencintai ototnya sendiri — tetapi
+            dengan setiap pertemuan, Elaina akan menjadi bagian kecil dari cerita mereka, dan dunianya sendiri akan mendapatkan sedikit lebih besar.</item>
+        <item>
+            Alkimia terikat oleh Hukum Pertukaran Setara ini — sesuatu yang baru disadari oleh Edward dan Alphonse
+            Elric bersaudara muda setelah mencoba transmutasi manusia: satu tindakan alkimia yang dilarang. Mereka
+            membayar harga yang sangat mahal untuk pelanggaran mereka — Edward kehilangan kaki kirinya, Alphonse tubuh
+            fisiknya. Hanya dengan pengorbanan lengan kanan Edward yang putus asa dia mampu membubuhkan jiwa Alphonse ke
+            baju zirah. Hancur dan sendirian, harapan bahwa mereka berdua pada akhirnya akan kembali ke tubuh aslinya yang
+            memberikan inspirasi kepada Edward untuk mendapatkan anggota badan logam yang disebut "automail" dan menjadi alkemis
+            negara, Fullmetal Alchemist.
+        </item>
+        <item>Ilmuwan gila yang memproklamirkan dirinya sendiri Rintarou Okabe menyewakan sebuah kamar di gedung tua reyot di Akihabara,
+            di mana ia memanjakan dirinya dengan hobinya menciptakan "gadget masa depan" dengan sesama anggota lab: Mayuri Shiina, teman masa
+            kecilnya yang berkepala dingin, dan Hashida Itaru, seorang hacker mesum yang dijuluki "Daru". Ketiganya menghabiskan waktu dengan
+            mengutak-atik alat mereka yang paling menjanjikan, sebuah mesin yang dijuluki "Phone Microwave", yang melakukan fungsi aneh mengubah
+            pisang menjadi tumpukan gel hijau.</item>
+        <item>Gintoki, Shinpachi, dan Kagura kembali sebagai anggota tim Yorozuya yang suka bersenang-senang tetapi menghancurkan! Hidup dalam realitas
+            alternatif Edo, di mana pedang dilarang dan penguasa asing telah menaklukkan Jepang, mereka mencoba untuk berkembang dalam melakukan pekerjaan
+            apa pun yang bisa mereka dapatkan. Namun, Shinpachi dan Kagura masih belum dibayar ... Apakah Gin-chan benar-benar menghabiskan semua uang itu
+            untuk bermain pachinko?</item>
+        <item>Sebagai pemuda yang liar, siswa sekolah dasar Shouya Ishida berusaha untuk mengalahkan kebosanan dengan cara yang paling kejam. Ketika Shouko
+            Nishimiya yang tuli pindah ke kelasnya, Shouya dan seluruh kelasnya tanpa berpikir menggertaknya untuk bersenang-senang. Namun, ketika ibunya memberi
+            tahu sekolah, dia disalahkan dan disalahkan atas semua yang dilakukan padanya. Dengan Shouko dipindahkan dari sekolah, Shouya ditinggalkan oleh
+            belas kasihan teman sekelasnya. Dia tanpa perasaan dikucilkan selama sekolah dasar dan menengah, sementara para guru menutup mata.</item>
+        <item>Mitsuha Miyamizu, seorang gadis SMA, sangat ingin menjalani kehidupan seorang anak laki-laki di kota Tokyo yang ramai — sebuah mimpi yang sangat kontras
+            dengan kehidupannya saat ini di pedesaan. Sementara di kota, Taki Tachibana menjalani kehidupan yang sibuk sebagai siswa SMA sambil menyulap
+            pekerjaan paruh waktunya dan berharap akan masa depan di bidang arsitektur.</item>
+        <item>Setelah liburan musim panas yang lambat tapi penting, semester kedua Akademi Shuchiin sekarang dimulai dengan kekuatan penuh. Saat transisi Agustus ke September,
+            ulang tahun Miyuki Shirogane semakin dekat, meninggalkan Kaguya Shinomiya dalam kesulitan yang serius tentang bagaimana merayakannya.
+            Selanjutnya, masa jabatan OSIS ke-67 sekolah akan segera berakhir. Karena anggota dewan berada di kelas yang berbeda, satu-satunya saat
+            Kaguya dan Miyuki harus bersama akan segera menghilang, menempatkan semua rencana licik mereka dalam risiko.</item>
+        <item>Iseng-iseng melakukan aktivitas paranormal tanpa dasar dengan Klub Gaib, siswa sekolah menengah Yuuji Itadori menghabiskan hari-harinya di ruang klub atau rumah
+            sakit, di mana dia mengunjungi kakeknya yang terbaring di tempat tidur. Namun, gaya hidup santai ini segera berubah menjadi aneh
+            ketika dia tanpa sadar menemukan barang terkutuk. </item>
+        <item>etelah sekarat dengan kematian yang menggelikan dan menyedihkan dalam perjalanan kembali dari membeli game, siswa sekolah menengah dan
+            pertapa Kazuma Satou mendapati dirinya duduk di depan dewi cantik namun menjengkelkan bernama Aqua.</item>
+        <item>Sejak kematian ayahnya, beban menghidupi keluarga telah jatuh ke pundak Tanjirou Kamado. Meski hidup miskin di pegunungan terpencil,
+            keluarga Kamado dapat menikmati kehidupan yang relatif damai dan bahagia.</item>
+        <item>Koyomi Araragi, siswa sekolah menengah tahun ketiga, berhasil selamat dari serangan vampir dengan bantuan Meme Oshino, seorang pria aneh
+            yang tinggal di sebuah bangunan yang ditinggalkan.</item>
+        <item>Musik mengiringi jalan metronom manusia, pianis luar biasa Kousei Arima. Namun setelah kematian ibunya, Saki Arima, Kousei jatuh ke bawah, membuatnya tidak bisa mendengar suara pianonya sendiri.</item>
+        <item>Tahun sekolah menengah yang baru selalu berarti banyak yang akan datang, dan salah satunya
+            adalah bergabung dengan klub. Berada dalam dilema tentang klub mana yang akan bergabung, Yui Hirasawa menemukan dan mengajukan
+            permohonan untuk Klub Musik Ringan, yang dia salah tafsirkan sebagai tentang memainkan instrumen sederhana, seperti alat musik.</item>
+</string-array>
+    <string-array name="data_photo">
+ <item>https://cdn.myanimelist.net/images/anime/1868/103414l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1613/108722l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1453/106768l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1181/109098l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/7/74317.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/6/29357.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/3/72078l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/3/80136l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/7/87281l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1676/103600l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1171/109222l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/7/81309l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1286/99889l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/10/24311l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/5/60465l.webp</item>
+        <item>https://cdn.myanimelist.net/images/anime/1724/99293l.webp</item>
+    </string-array>
+</resources>

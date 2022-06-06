@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/fragment_pertama" />
+    <EditText
+        android:id="@+id/inputNamaSaya"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/masukan_nama"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/inputNimSaya"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Masukan Nim"
+        android:inputType="number" />
+    <Button
+        android:id="@+id/btnToSecondFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUKA FRAGMRENT KEDUA" />
+</LinearLayout>
