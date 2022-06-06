@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.AddFragment"
+    android:padding="20dp"
+    >
+
+
+ <EditText
+     android:id="@+id/edit_task"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="Tugas"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     android:drawableStart="@drawable/ic_task"
+     android:drawableTint="@android:color/darker_gray"
+     />
+    <TextView
+        android:id="@+id/label_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Atur Tanggal"
+        android:textColor="@color/blue_500"
+        android:textStyle="bold"
+        android:drawableStart="@drawable/ic_date"
+        android:drawableTint="@color/blue_500"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_task"
+        android:gravity="start|center"
+        />
+    <TextView
+        android:id="@+id/text_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="01/06/2022"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_task"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_Save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:cornerRadius="10dp"
+        android:text="Tambahkan"
+        android:backgroundTint="@color/blue_500"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/label_date"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
