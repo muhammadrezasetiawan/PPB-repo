@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum11</string>
+    <string name="submit">submit</string>
+    <string name="category">Categories</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="delete">Delete</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "321855365780",
+    "project_id": "fir-ppb-2022",
+    "storage_bucket": "fir-ppb-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321855365780:android:7728fd2ebffdff3c668a81",
+        "android_client_info": {
+          "package_name": "com.reza_18102205.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321855365780-j46smc2n0j5gqrk003i7i37nbuccljdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDrKCXbIHempfOXRom5WN0YFgB0Lv9mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321855365780-j46smc2n0j5gqrk003i7i37nbuccljdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321855365780:android:dd96adffdacb3a29668a81",
+        "android_client_info": {
+          "package_name": "com.rezasetiawan_18102205.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321855365780-j46smc2n0j5gqrk003i7i37nbuccljdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDrKCXbIHempfOXRom5WN0YFgB0Lv9mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321855365780-j46smc2n0j5gqrk003i7i37nbuccljdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
